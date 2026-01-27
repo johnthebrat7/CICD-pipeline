@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="JohnBanegaDon" name="junit.TestCalculator" skipped="0" tests="5" time="0.027" timestamp="2026-01-13T18:01:44">
+  <properties>
+    <property name="ant.library.dir" value="C:\apache-ant-1.10.15\lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="17" />
+    <property name="ant.project.name" value="SampleBuild" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.class.path" value="C:\apache-ant-1.10.15\lib\ant-launcher.jar;C:\apache-ant-1.10.15\lib\ant-antlr.jar;C:\apache-ant-1.10.15\lib\ant-apache-bcel.jar;C:\apache-ant-1.10.15\lib\ant-apache-bsf.jar;C:\apache-ant-1.10.15\lib\ant-apache-log4j.jar;C:\apache-ant-1.10.15\lib\ant-apache-oro.jar;C:\apache-ant-1.10.15\lib\ant-apache-regexp.jar;C:\apache-ant-1.10.15\lib\ant-apache-resolver.jar;C:\apache-ant-1.10.15\lib\ant-apache-xalan2.jar;C:\apache-ant-1.10.15\lib\ant-commons-logging.jar;C:\apache-ant-1.10.15\lib\ant-commons-net.jar;C:\apache-ant-1.10.15\lib\ant-imageio.jar;C:\apache-ant-1.10.15\lib\ant-jai.jar;C:\apache-ant-1.10.15\lib\ant-jakartamail.jar;C:\apache-ant-1.10.15\lib\ant-javamail.jar;C:\apache-ant-1.10.15\lib\ant-jdepend.jar;C:\apache-ant-1.10.15\lib\ant-jmf.jar;C:\apache-ant-1.10.15\lib\ant-jsch.jar;C:\apache-ant-1.10.15\lib\ant-junit.jar;C:\apache-ant-1.10.15\lib\ant-junit4.jar;C:\apache-ant-1.10.15\lib\ant-junitlauncher.jar;C:\apache-ant-1.10.15\lib\ant-launcher.jar;C:\apache-ant-1.10.15\lib\ant-netrexx.jar;C:\apache-ant-1.10.15\lib\ant-swing.jar;C:\apache-ant-1.10.15\lib\ant-testutil.jar;C:\apache-ant-1.10.15\lib\ant-xz.jar;C:\apache-ant-1.10.15\lib\ant.jar" />
+    <property name="java.vm.vendor" value="Eclipse Adoptium" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://adoptium.net/" />
+    <property name="os.name" value="Windows 11" />
+    <property name="java.vm.specification.version" value="17" />
+    <property name="ant.file.SampleBuild" value="D:\JENKINS_HOME\workspace\SampleWebApp\build.xml" />
+    <property name="user.country" value="IN" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.17.10-hotspot\bin" />
+    <property name="sun.java.command" value="org.apache.tools.ant.launch.Launcher junit" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Windows\system32\config\systemprofile" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2025-10-21" />
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.17.10-hotspot" />
+    <property name="file.separator" value="\" />
+    <property name="basedir" value="D:\JENKINS_HOME\workspace\SampleWebApp" />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ant.java.version" value="17" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="user.script" value="" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="17.0.17+10" />
+    <property name="user.name" value="JOHNBANEGADON$" />
+    <property name="ant.file" value="D:\JENKINS_HOME\workspace\SampleWebApp\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="ant.file.type.SampleBuild" value="file" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="ant.project.invoked-targets" value="junit" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="java.vendor.version" value="Temurin-17.0.17+10" />
+    <property name="ant.core.lib" value="C:\apache-ant-1.10.15\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues" />
+    <property name="java.io.tmpdir" value="C:\Windows\TEMP\" />
+    <property name="java.version" value="17.0.17" />
+    <property name="user.dir" value="D:\JENKINS_HOME\workspace\SampleWebApp" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.home" value="C:\apache-ant-1.10.15" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="native.encoding" value="Cp1252" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.15 compiled on August 25 2024" />
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.17.10-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\CodeCompilers\python\Scripts\;C:\CodeCompilers\python\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\DevOpsTools\apache-maven-3.9.12\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.17.10-hotspot\bin;C:\apache-ant-1.10.15\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;." />
+    <property name="java.vendor" value="Eclipse Adoptium" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="java.vm.version" value="17.0.17+10" />
+    <property name="java.specification.maintenance.version" value="1" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="61.0" />
+    <property name="ant.project.default-target" value="war" />
+  </properties>
+  <testcase classname="junit.TestCalculator" name="testDivideByZero" time="0.002" />
+  <testcase classname="junit.TestCalculator" name="testAdd" time="0.0" />
+  <testcase classname="junit.TestCalculator" name="testSubtract" time="0.0" />
+  <testcase classname="junit.TestCalculator" name="testDivide" time="0.0" />
+  <testcase classname="junit.TestCalculator" name="testMultiply" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
