@@ -19,7 +19,6 @@ Maven: Build automation and dependency management.
 Git/GitHub: Version control.
 Linux/Ubuntu: Server environment.
 
-📋 Prerequisites & Setup
 
 1. Java Configuration
 To run the build environment, Java must be correctly installed and configured in your system variables:
